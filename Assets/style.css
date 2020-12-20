@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+#about-img{
+    height: 200px;
+    length: 200px;
+    margin: 15px;
+}
+#paragraph p{
+    margin: 15px;
+    padding: 15px;
+}
+.container{
+    background-color: beige;
+    margin: 15px;
+}
