@@ -3,12 +3,12 @@ body {
 }
 #about-img{
     height: 200px;
-    length: 200px;
     margin: 15px;
 }
 #paragraph p{
     margin: 15px;
     padding: 15px;
+    border: gray
 }
 .container{
     background-color: beige;
@@ -21,4 +21,9 @@ body {
 #portfolio-color{
     background-color: beige;
     margin: 15px;
+}
+#button{
+    margin: 0 auto;
+    display: block;
+
 }
