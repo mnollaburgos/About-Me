@@ -1,6 +1,14 @@
 body {
     background-color: white;
 }
+
+.bg-info{
+    background-color: transparent!important;
+}
+
+.text-info {
+    color: rgb(99, 92, 92)!important;
+}
 #about-img{
     height: 200px;
     margin: 15px;
@@ -11,15 +19,12 @@ body {
     border: gray
 }
 .container{
-    background-color: beige;
     margin: 15px;
 }
 #contact-color{
-    background-color: beige;
     margin: 15px;
 }
 #portfolio-color{
-    background-color: beige;
     margin: 15px;
 }
 #button{
